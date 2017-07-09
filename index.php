@@ -97,7 +97,7 @@ switch (ENVIRONMENT)
  * This variable must contain the name of your "system" directory.
  * Set the path if it is not in the same directory as this file.
  */
-	$system_path = "/usr/share/pear/codeigniter/system";
+	$system_path = 'system';
 
 /*
  *---------------------------------------------------------------
@@ -114,7 +114,7 @@ switch (ENVIRONMENT)
  *
  * NO TRAILING SLASH!
  */
-	$application_folder = "/home/cl/Documents/2017-1/Metodologias-de-Diseño/gestion-costas-mvc/application";
+	$application_folder = 'application';
 
 /*
  *---------------------------------------------------------------
